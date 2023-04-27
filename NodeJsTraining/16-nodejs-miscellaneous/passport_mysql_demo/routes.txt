@@ -1,0 +1,11 @@
+/
+/login
+/logout
+/login-success
+/login-failure
+/register
+/login
+/protected-route
+/admin-route
+/notAuthorized
+/userAlreadyExists
